@@ -17,6 +17,11 @@ Plesk:
 
 ----------------------------------
 
-Alles dat ik kan vinden over vives.be: /n
-test
+Alles dat ik kan vinden over vives.be: 
+IP: 	193.190.147.172 
+	Hosted by Belnet/compbell nv
+
+MailServer: 	104.47.0.36
+		Met als backup en protection op: 178.208.39.140
+
 
