@@ -14,3 +14,9 @@ DirectAdmin:
 Plesk:
 	-wederom een zelfde systeem als gezien voordien maar is een beetje duurder dan DirectAdmin maar  net iets goedkoper dan Cpanel.
 	Hier kan je zowel maandelijks als jaarlijks betalen.
+
+----------------------------------
+
+Alles dat ik kan vinden over vives.be: \n
+test
+
