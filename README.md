@@ -17,6 +17,6 @@ Plesk:
 
 ----------------------------------
 
-Alles dat ik kan vinden over vives.be: \n
+Alles dat ik kan vinden over vives.be: /n
 test
 
